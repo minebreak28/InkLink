@@ -4,6 +4,7 @@
 
 ## What is InkLink?
 **From Street to Screen - Share your Scene**
+
 InkLink is a photo-sharing app, similar to Instagram. However, instead of sharing photos and videos of all categories, InkLink focuses on sharing photos of graffiti. Graffiti is a long-forgotten and under-appreciated form of art. It is rarely appreciated and frequently scrutinized. This app aims to change that by bringing people from different cultures and backgrounds together, into a community that celebrates graffiti as a legitimate and impactful form of art.
 
 ## Requirements:
