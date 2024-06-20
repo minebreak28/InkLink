@@ -8,6 +8,23 @@
     - [Functional Requirements](#functional-requirements)
     - [Nonfunctional Requirements](#nonfunctional-requirements)
 3. [Capacity Estimation](#capacity-estimation)
+4. [System Design](#system-design) TBD
+    - [Architecture Overview](#architecture-overview) TBD
+    - [Database Design](#database-design) TBD
+    - [API Design](#api-design) TBD
+5. [Technology Stack](#technology-stack) TBD
+    - [Frontend](#frontend) TBD
+    - [Backend](#backend) TBD
+    - [Database](#database) TBD
+    - [Caching](#caching) TBD
+    - [Load Balancing](#load-balancing) TBD
+    - [Authentication](#authentication) TBD
+6. [Development Environment](#development-environment) TBD
+    - [Languages and Frameworks](#languages-and-frameworks) TBD
+    - [Development Tools](#development-tools) TBD
+    - [Testing Frameworks](#testing-frameworks) TBD
+9. [Future Enhancements](#future-enhancements)
+10. [Acknowledgements](#acknowledgements)
 
 ## What is InkLink?
 **From Street to Screen - Share your Scene**
