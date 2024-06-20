@@ -2,6 +2,13 @@
 
 ## Note: This project is in development!
 
+## Table of Contents
+1. [What is InkLink?](#what-is-inklink)
+2. [Requirements](#requirements)
+    - [Functional Requirements](#functional-requirements)
+    - [Nonfunctional Requirements](#nonfunctional-requirements)
+3. [Capacity Estimation](#capacity-estimation)
+
 ## What is InkLink?
 **From Street to Screen - Share your Scene**
 
@@ -10,19 +17,33 @@ InkLink is a photo-sharing app, similar to Instagram. However, instead of sharin
 ## Requirements:
 ### Functional Requirements:
 **Graffiti Photo Sharing and Viewing:** Users should be able to upload photos of graffiti as posts. Posts will contain the image, relevant captions and tags, the location and artist (if known), as well as likes and comments.
+
 **Liking and Commenting**: Users should be able to view other users' posts, like the post, and comment on the post. Users should also be able to reply to comments.
+
 **Following:** Users should be able to follow each other.
+
 **User Profile:** Users should be able to register an account and securely log in. In their profile, users can see their profile picture, username, name, bio, following, users they follow, and their posts. 
+
 **Custom News Feed**: Each user should have a custom news feed that displays recent photos from the users they follow.
+
 **Search**: There should be a search functionality where users can search for artists, locations, and tags.
+
 **Map View**: Users should be able to view a map displaying their location and the locations of nearby or popular graffiti.
+
 **Notifications**: Users should receive notifications for new likes, comments, follows, and posts from artists they follow.
+
 ### Nonfunctional Requirements:
+
 **High Availability and Low Latency:** The system should prioritize high availability and low latency while viewing photos. We can trade off consistency to improve availability.
+
 **Scalability and Read Optimization:** The system should be highly scalable and optimized for read-heavy workloads, with a high read-to-write ratio. 
+
 **Reliability:** The system should be reliable, ensuring that no uploaded photos or videos are lost. This means that the system should be backed up somewhere.
+
 **Compatibility and Performance:** The system should be compatible with a wide range of mobile and web devices. It should support multiple languages and perform across different internet bandwidths.
+
 **Costs:** The system should be as cost-efficient as possible by balancing performance and resource usage. This includes optimizing cloud service expenses, reducing data transfer and storage costs, and ensuring scalability.
+
 **Privacy and Security**: If deployed to customers, InkLink must ensure the privacy and security of user data. This includes account authentication and verification, data encryption in transit and storage, and content moderation to prevent the sharing of illegal or inappropriate content. Users must allow InkLink to access their location to enable Map View.
 
 ## Capacity Estimation:
